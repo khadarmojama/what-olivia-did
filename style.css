@@ -108,16 +108,22 @@ body{
     margin: 20px 100px;
 
 }
+.container3{
+    display: flex;
+}
 
 .post{
     width: 50%;
     background: url(/images/);
+    background-repeat: no-repeat;
+    background-position: center;
 
 }
 .img{
     
     background: url(/images/b1.jpg);
     height: 500px;
+    width: 100%;
 
 
     
